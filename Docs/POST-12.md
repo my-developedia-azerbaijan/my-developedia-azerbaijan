@@ -50,7 +50,7 @@ TLS istifadə edən saytların ünvanında `https` görünür və kilid işarəs
     
 22.  **Network (İnternet):** İnternet, dünya üzrə milyonlarla cihazı bir-birinə bağlayan qlobal bir şəbəkədir. İnternet, məlumat əldə etmək, rabitə və məlumat paylaşımı üçün istifadə olunur. TCP/IP protokolu ilə işləyir və dünya üzrə məlumatlara sürətli və asan giriş təmin edir.
 
-    ***Network Types:***
+- **Network Types:**
 
     - **LAN (Local Area Network):** LAN, məhdud coğrafi ərazidəki cihazları birləşdirən lokal şəbəkədir. Ev, məktəb və ya ofis mühitində istifadə olunur. LAN yüksək məlumat ötürmə sürəti təmin edir və adətən bir yönləndirici vasitəsilə interneta qoşulur.
     - **WAN (Wide Area Network):** WAN, şəhərlər, ölkələr və ya qitələr kimi geniş sahələri əhatə edən bir şəbəkədir. İnternet, dünya üzrə cihazları birləşdirən ən geniş yayılmış WAN nümunəsidir. WAN, fərqli LAN-ların bir araya gəlməsi ilə formalaşır.
@@ -71,32 +71,31 @@ TLS istifadə edən saytların ünvanında `https` görünür və kilid işarəs
 28. **API (Application Programming Interface):** API (Application Programming Interface), iki fərqli proqramın bir-biri ilə ünsiyyət qurmasını təmin edən interfeysdir. API-lər tətbiqlər arasında məlumat mübadiləsini asanlaşdırır və proqram təminatının inkişaf prosesini sürətləndirir. Məsələn, hava proqnozu tətbiqi hava məlumatlarını bir API vasitəsilə əldə edə bilər. Bu, tərtibatçıların hər şeyi sıfırdan yazmaq məcburiyyətində qalmasının qarşısını alır.
 API-lər adətən REST (Representational State Transfer) və ya GraphQL kimi standartlardan istifadə edir. REST API-lər HTTP protokolu vasitəsilə GET, POST, PUT, DELETE kimi sorğularla məlumat alıb göndərir.
 
-29.  **Token:** Token, API-lərin təhlükəsiz işləməsini təmin etmək üçün istifadə olunan rəqəmsal açardır. İstifadəçinin təsdiqlənməsi və səlahiyyətləndirilməsi proseslərində geniş istifadə olunur. Token, istifadəçinin kimliyini təsdiqləmək və həmin istifadəçiyə müəyyən giriş hüquqları vermək üçün yaradılan unikal bir sətrdir.
-    
-    ***Token İstifadə Prosesləri:***
+29.   **Token:** Token, API-lərin təhlükəsiz işləməsini təmin etmək üçün istifadə olunan rəqəmsal açardır. İstifadəçinin təsdiqlənməsi və səlahiyyətləndirilməsi proseslərində geniş istifadə olunur. Token, istifadəçinin kimliyini təsdiqləmək və həmin istifadəçiyə müəyyən giriş hüquqları vermək üçün yaradılan unikal bir sətrdir.    
 
-    1. **Doğrulama:** İstifadəçi API-yə giriş üçün istifadəçi adı və şifrə kimi məlumatları təqdim edir.
-    2. **Token Yaratma:** API bu məlumatları yoxlayır və uğurlu girişdən sonra bir Token yaradır.
-    3. **Token ilə Sorğu:** İstifadəçi API-yə giriş təmin etmək üçün hər sorğusunda bu Token-i göndərir.
-    4. **Doğrulama və Giriş:** API gələn Token-in etibarlı olub-olmadığını yoxlayır və istifadəçiyə icazə verir.
-    
-    ***Token Növləri:***
+- **Token İstifadə Prosesləri:**
 
-    1. **JWT (JSON Web Token):** JSON formatında məlumat daşıyan və təhlükəsizlik üçün imzalanan Token növüdür. İstifadəçi kimliyi və hüquq məlumatlarını daxil edir.
-    2. **OAuth Token:** OAuth protokolu ilə yaradılan Token-dir. Xüsusilə üçüncü tərəf tətbiqlərdə istifadəçilərin şəxsi məlumatlarını paylaşmadan təhlükəsiz giriş təmin edir.
-    3. **Access Token və Refresh Token:** 
+    - **Doğrulama:** İstifadəçi API-yə giriş üçün istifadəçi adı və şifrə kimi məlumatları təqdim edir.
+    - **Token Yaratma:** API bu məlumatları yoxlayır və uğurlu girişdən sonra bir Token yaradır.
+    - **Token ilə Sorğu:** İstifadəçi API-yə giriş təmin etmək üçün hər sorğusunda bu Token-i göndərir.
+    - **Doğrulama və Giriş:** API gələn Token-in etibarlı olub-olmadığını yoxlayır və istifadəçiyə icazə verir.    
+
+- **Token Növləri:**
+
+    - **JWT (JSON Web Token):** JSON formatında məlumat daşıyan və təhlükəsizlik üçün imzalanan Token növüdür. İstifadəçi kimliyi və hüquq məlumatlarını daxil edir.
+    - **OAuth Token:** OAuth protokolu ilə yaradılan Token-dir. Xüsusilə üçüncü tərəf tətbiqlərdə istifadəçilərin şəxsi məlumatlarını paylaşmadan təhlükəsiz giriş təmin edir.
+    - **Access Token və Refresh Token:** 
         - **Access Token:** API-yə giriş təmin etmək üçün istifadə olunur və adətən qısa müddət üçün etibarlıdır.
         - **Refresh Token:** Access Token-in müddəti bitdikdə yeni bir Access Token yaratmaq üçün istifadə olunur.
 
-30.  **STP (Spanning Tree Protocol):** STP, kompüter şəbəkələrində istifadə olunan bir protokoldur. Bu protokol əsasən switch-lərlə qurulan şəbəkələrdə dövrə (loop) yaranmasının qarşısını almaq üçün istifadə olunur. Bəzən şəbəkədə bir cihazdan digərinə getmək üçün birdən çox yol olur və bu da məlumatın sonsuz şəkildə dolaşmasına səbəb ola bilər. STP həmin artıq yolları müəyyən edir və onların birini bloklayaraq şəbəkəni sabit saxlayır. Əgər əsas yol işləməz hala düşərsə, STP bloklanmış ehtiyat yolu yenidən aktiv edir. Bu sayədə həm şəbəkə dayanmaz, həm də məlumatlar daha təhlükəsiz və düzgün şəkildə ötürülər.
+30.   **STP (Spanning Tree Protocol):** STP, kompüter şəbəkələrində istifadə olunan bir protokoldur. Bu protokol əsasən switch-lərlə qurulan şəbəkələrdə dövrə (loop) yaranmasının qarşısını almaq üçün istifadə olunur. Bəzən şəbəkədə bir cihazdan digərinə getmək üçün birdən çox yol olur və bu da məlumatın sonsuz şəkildə dolaşmasına səbəb ola bilər. STP həmin artıq yolları müəyyən edir və onların birini bloklayaraq şəbəkəni sabit saxlayır. Əgər əsas yol işləməz hala düşərsə, STP bloklanmış ehtiyat yolu yenidən aktiv edir. Bu sayədə həm şəbəkə dayanmaz, həm də məlumatlar daha təhlükəsiz və düzgün şəkildə ötürülər.
 
-31. **SSH (Secure Shell):** SSH, şəbəkə üzərindən başqa bir kompüterə təhlükəsiz şəkildə qoşulmağa imkan verən bir protokoldur. Əsas məqsədi, istifadəçi ilə uzaq cihaz arasında məlumatları şifrələyərək təhlükəsiz əlaqə yaratmaqdır. SSH çox vaxt serverlərə uzaqdan daxil olma və komanda vermək üçün istifadə olunur. Bu protokol olmadan göndərilən məlumatlar şifrələnmədiyi üçün başqaları tərəfindən ələ keçirilə bilərdi. SSH isə məlumatları güclü şifrələmə ilə qoruyur və istifadəçinin kimliyini doğrulama mexanizmi də təmin edir.
+31.  **SSH (Secure Shell):** SSH, şəbəkə üzərindən başqa bir kompüterə təhlükəsiz şəkildə qoşulmağa imkan verən bir protokoldur. Əsas məqsədi, istifadəçi ilə uzaq cihaz arasında məlumatları şifrələyərək təhlükəsiz əlaqə yaratmaqdır. SSH çox vaxt serverlərə uzaqdan daxil olma və komanda vermək üçün istifadə olunur. Bu protokol olmadan göndərilən məlumatlar şifrələnmədiyi üçün başqaları tərəfindən ələ keçirilə bilərdi. SSH isə məlumatları güclü şifrələmə ilə qoruyur və istifadəçinin kimliyini doğrulama mexanizmi də təmin edir.
 SSH vasitəsilə Linux və digər server əməliyyat sistemlərini idarə etmək çox rahat olur. Bu protokol həmçinin fayl köçürmək üçün də istifadə edilə bilər (məsələn, SCP və ya SFTP ilə). Qısaca desək, SSH uzaq cihazlara təhlükəsiz giriş üçün ən çox istifadə edilən protokollardan biridir.
 
-32. **SCP (Secure Copy Protocol):** SCP, SSH üzərindən faylları bir kompüterdən digərinə təhlükəsiz şəkildə köçürmək üçün istifadə olunan protokoldur. 
+32.  **SCP (Secure Copy Protocol):** SCP, SSH üzərindən faylları bir kompüterdən digərinə təhlükəsiz şəkildə köçürmək üçün istifadə olunan protokoldur. 
 
-33. **SFTP (SSH File Transfer Protocol):** SFTP, də eyni məqsədə xidmət edir, amma daha çox funksiyaya malikdir və fayl əməliyyatlarını idarə etməyə imkan verir. Yəni, SCP əsasən sadəcə fayl kopyalamaq üçündür, SFTP isə həm kopyalama, həm silmə, həm də qovluqları idarə etmə imkanı verir. Hər ikisi məlumatları şifrələyir, buna görə də internet üzərindən təhlükəsiz istifadəyə uyğundur. SCP çox vaxt sadə və sürətli kopyalama əməliyyatları üçün seçilir. SFTP isə kompleks fayl idarəsi və server menecmenti üçün daha uyğun hesab olunur.
-
+33.  **SFTP (SSH File Transfer Protocol):** SFTP, də eyni məqsədə xidmət edir, amma daha çox funksiyaya malikdir və fayl əməliyyatlarını idarə etməyə imkan verir. Yəni, SCP əsasən sadəcə fayl kopyalamaq üçündür, SFTP isə həm kopyalama, həm silmə, həm də qovluqları idarə etmə imkanı verir. Hər ikisi məlumatları şifrələyir, buna görə də internet üzərindən təhlükəsiz istifadəyə uyğundur. SCP çox vaxt sadə və sürətli kopyalama əməliyyatları üçün seçilir. SFTP isə kompleks fayl idarəsi və server menecmenti üçün daha uyğun hesab olunur.
 
 
 [**_by knvmrt_**](https://github.com/knvmrt)
