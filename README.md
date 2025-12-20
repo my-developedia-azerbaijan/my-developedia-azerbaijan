@@ -7,53 +7,53 @@
    <details style="padding-left:30px;">
   <summary><h2> ⚜️Bütün mövzular:</h2></summary>
   <ul>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-1.md">Əməliyyat Sistemləri </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-2.md">CLI və GUI nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-3.md">Proqramlaşdırma </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-4.md">Axtarış motoru və Brauzer </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-7.md">Python ilə QR kod</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-8.md">Python ilə YT Video</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-9.md">C# ilə dairənin çevrəsini hesablamaq</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-10.md">VM nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-11.md">BIOS və UEFI nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-12.md">IT təməl anlayışlar </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-13.md">SQL Injection nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-14.md">Kvant kompüteri nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-16.md">WSL nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-17.md">NMAP nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-23.md">İnternet Topologiyası nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-24.md">2FA Two-Factor Authentication nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-1.md">Əməliyyat Sistemləri </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-2.md">CLI və GUI nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-3.md">Proqramlaşdırma </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-4.md">Axtarış motoru və Brauzer </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-7.md">Python ilə QR kod</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-8.md">Python ilə YT Video</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-9.md">C# ilə dairənin çevrəsini hesablamaq</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-10.md">VM nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-11.md">BIOS və UEFI nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-12.md">IT təməl anlayışlar </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-13.md">SQL Injection nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-14.md">Kvant kompüteri nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-16.md">WSL nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-17.md">NMAP nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-23.md">İnternet Topologiyası nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-24.md">2FA Two-Factor Authentication nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
   <details style="padding-left:30px;">
   <summary><h2> ⚙️Texnalogiyalar:</h2></summary>
   <ul>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-1.md">Əməliyyat Sistemləri </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-2.md">CLI və GUI nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-3.md">Proqramlaşdırma </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-4.md">Axtarış motoru və Brauzer </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-10.md">VM nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-11.md">BIOS və UEFI nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-12.md">IT təməl anlayışlar </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-14.md">Kvant kompüteri nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-16.md">WSL nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-23.md">İnternet Topologiyası nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-24.md">2FA Two-Factor Authentication nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-1.md">Əməliyyat Sistemləri </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-2.md">CLI və GUI nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-3.md">Proqramlaşdırma </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-4.md">Axtarış motoru və Brauzer </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-10.md">VM nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-11.md">BIOS və UEFI nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-12.md">IT təməl anlayışlar </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-14.md">Kvant kompüteri nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-16.md">WSL nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-23.md">İnternet Topologiyası nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-24.md">2FA Two-Factor Authentication nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
@@ -62,35 +62,35 @@
     <details style="padding-left:30px;">
   <summary><h2> #️⃣Kod nümunələri:</h2></summary>
   <ul>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-7.md">Python ilə QR kod</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-8.md">Python ilə YT Video</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-9.md">C# ilə dairənin çevrəsini hesablamaq</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-7.md">Python ilə QR kod</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-8.md">Python ilə YT Video</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-9.md">C# ilə dairənin çevrəsini hesablamaq</a></h3>
   </ul>
   <hr></hr>
   </details>
   <ul>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-2.md">CLI və GUI nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-3.md">Proqramlaşdırma </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-2.md">CLI və GUI nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-3.md">Proqramlaşdırma </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
   <details style="padding-left:30px;">
   <summary><h2> 🛡️Kiber Təhlükəsizlik:</h2></summary>
   <ul>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-1.md">Əməliyyat Sistemləri </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-10.md">VM nədir? </a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-13.md">SQL Injection nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-17.md">NMAP nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-18.md">Metasploit nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-1.md">Əməliyyat Sistemləri </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-10.md">VM nədir? </a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-13.md">SQL Injection nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-17.md">NMAP nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-18.md">Metasploit nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
+    <h3><a href="https://github.com/my-developedia-azerbaijan/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
   </ul>
     <hr></hr> 
   </details>
@@ -101,13 +101,11 @@
 # 🌐 Sosial Şəbəkələrim:
 
 [![My Site:](./Img/knvmrt.avif)](https://knvmrt.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
-[![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/company/my-developedia-azerbaijan-official/about/)
 
 <hr></hr>
 
-<a href="https://kofe.al/@knvmrt"> <img src="./Img/coffee.avif" alt="buy me acoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
+<a href="https://kofe.al/@my-developedia-azerbaijan"> <img src="./Img/coffee.avif" alt="buy me acoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
 
 ## © Creative Commons Attribution-NonCommercial 4.0 Beynəlxalq Lisenziyası
 
